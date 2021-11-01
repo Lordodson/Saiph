@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Saiph"]
+	url = https://github.com/Lordodson/Saiph
+	fetch = +refs/heads/*:refs/remotes/Saiph/*
+	pushurl = https://github.com/Lordodson/Saiph
+[branch "master"]
+	remote = Saiph
+	merge = refs/heads/master

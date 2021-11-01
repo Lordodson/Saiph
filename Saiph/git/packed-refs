@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+adbd7030151b7d8972aa701ca53b1c3aeb487470 refs/tags/CompositeShaddows
+^27bea4e5d4e576f2f131252ee3d80b00d37ed7e8
+1235fabd13dba0a374976bee23461638ed098fd1 refs/tags/Debugging
+^0fece77410fe940095c504711372b362b34ea3d4
+98120cd9a47cf5c756da479bc949ecd0ddafaa40 refs/tags/Deflector
+^bd2b25c4b1081c20f1834da1d62b44c146956097
+efbd4145ded3c7edbafff25ee220d8220c78247b refs/tags/FactoryMethod
+^384c1c149106f7742c96ed9c62fec729b09682a4
+44321e65d79104553658972f6bd53ac4fec19c44 refs/tags/MergingComplete
+^f2bc942c12d53206cac22e9281384ae238085839
+8a4b3b5e11f0f5aef198cfed28ba8ac3544527d5 refs/tags/Observer
+^f44e2d7f76c1b401c39ce1670da9670f2b551f1b
